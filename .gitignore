@@ -6,3 +6,4 @@
 /learn_web/web_env
 /learn_web/webapp/config.py
 /learn_web/__pycache__
+*.db
